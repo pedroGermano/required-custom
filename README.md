@@ -7,7 +7,7 @@
 Validação de forms customizada com HTML e JavaScript | Code/Drops #32
 </h1>
 
-<p align="center">Customizações com CSS e Javascript [link](https://www.youtube.com/watch?v=GTMEuHxh8aQ)</p>
+<p align="center">Customizações com CSS e Javascript [ link ]( https://www.youtube.com/watch?v=GTMEuHxh8aQ )</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
